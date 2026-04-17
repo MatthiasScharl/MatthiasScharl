@@ -20,7 +20,7 @@ I build tooling and automation for Microsoft Security workloads — focused on p
 
 | Repository | Description |
 |---|---|
-| [Sentinel](https://github.com/MatthiasScharl/Sentinel) | Microsoft Sentinel solutions |
+| [Sentinel](https://github.com/MatthiasScharl/Sentinel) | Microsoft Sentinel solutions — analytics rules export, automation |
 
 ### Microsoft Defender for Identity (MDI)
 
