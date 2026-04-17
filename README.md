@@ -20,14 +20,13 @@ I build tooling and automation for Microsoft Security workloads — focused on p
 
 | Repository | Description |
 |---|---|
-| *(coming soon)* | |
+| [Sentinel](https://github.com/MatthiasScharl/Sentinel) | Microsoft Sentinel solutions |
 
-### Other
+### Microsoft Defender for Identity (MDI)
 
 | Repository | Description |
 |---|---|
-| [mdi-health-dashboard](https://github.com/MatthiasScharl/mdi-health-dashboard) | |
-| [ms-security-report](https://github.com/MatthiasScharl/ms-security-report) | |
+| [MDI](https://github.com/MatthiasScharl/MDI) | Microsoft Defender for Identity solutions |
 
 ---
 
