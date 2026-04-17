@@ -14,7 +14,7 @@ I build tooling and automation for Microsoft Security workloads — focused on p
 
 | Repository | Description |
 |---|---|
-| [mdc-staged-onboarding-p2](https://github.com/MatthiasScharl/mdc-staged-onboarding-p2) | Staged, wave-based onboarding of Defender for Servers P2 across Azure subscriptions |
+| [MDC](https://github.com/MatthiasScharl/MDC) | Staged, wave-based onboarding of Defender for Servers P2 across Azure subscriptions |
 
 ### Microsoft Sentinel
 
