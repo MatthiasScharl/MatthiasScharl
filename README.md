@@ -26,7 +26,7 @@ I build tooling and automation for Microsoft Security workloads — focused on p
 
 | Repository | Description |
 |---|---|
-| [MDI](https://github.com/MatthiasScharl/MDI) | Microsoft Defender for Identity solutions |
+| [MDI](https://github.com/MatthiasScharl/MDI) | Interactive deployment planner — structured questionnaire generates a tailored MDI deployment plan (JSON + HTML) with phased checklist, sensor version recommendation (v2.x vs v3.x), sizing guidance, and safety-first PowerShell cmdlines |
 
 ---
 
